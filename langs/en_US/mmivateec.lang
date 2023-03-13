@@ -1,0 +1,53 @@
+# Copyright (C) 2022 Mathieu Moulin <mathieu@iprospective.fr>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleMMIVATEECName'
+ModuleMMIVATEECName = MMIVATEEC
+# Module description 'ModuleMMIVATEECDesc'
+ModuleMMIVATEECDesc = MMIVATEEC description
+
+#
+# Admin page
+#
+MMIVATEECSetup = MMIVATEEC setup
+Settings = Settings
+MMIVATEECSetupPage = MMIVATEEC setup page
+MMIVATEEC_MYPARAM1 = My param 1
+MMIVATEEC_MYPARAM1Tooltip = My param 1 tooltip
+MMIVATEEC_MYPARAM2=My param 2
+MMIVATEEC_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+MMIVATEECAbout = About MMIVATEEC
+MMIVATEECAboutPage = MMIVATEEC about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
