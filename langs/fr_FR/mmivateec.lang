@@ -26,7 +26,6 @@ ModuleMMIVATEECDesc = Mise à la norme Européenne sur la TVA B2C de juillet 202
 # Admin page
 #
 MMIVATEECSetup = MMIVATEEC setup
-Settings = Settings
 MMIVATEECSetupPage = MMIVATEEC setup page
 MMIVATEEC_MYPARAM1 = My param 1
 MMIVATEEC_MYPARAM1Tooltip = My param 1 tooltip
@@ -40,7 +39,6 @@ VAT_INTRA_CHECK_VIES_LOG = Logguer les validations en BDD
 #
 # About page
 #
-About = About
 MMIVATEECAbout = About MMIVATEEC
 MMIVATEECAboutPage = MMIVATEEC about page
 
